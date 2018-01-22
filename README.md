@@ -4,8 +4,8 @@ Dient zum Upload von Dateien in Mattermost. Die Ursprungsversion von Stackoverlo
 habe ich auf die neue Version von Mattermost angepasst.
 
 Im Plugin müssen folgende Attribute gesetzt werden:
-SERVER_URL = "http://localhost:80/"
-CHANNEL_ID = "dzs4sdgfsfsdf"
-USER_EMAIL = "test"
-USER_PASS = "test"
-FILE_PATH = '/home/admin/Schreibtisch/Test.md'
+SERVER_URL = "http://localhost:80/" <br />
+CHANNEL_ID = "dzs4sdgfsfsdf" <br />
+USER_EMAIL = "test" <br />
+USER_PASS = "test" <br />
+FILE_PATH = '/home/admin/Schreibtisch/Test.md' <br />
